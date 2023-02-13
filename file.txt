@@ -1,5 +1,5 @@
  First commit from master
 
 
-
 Adding feature 2
+Adding the first feature
